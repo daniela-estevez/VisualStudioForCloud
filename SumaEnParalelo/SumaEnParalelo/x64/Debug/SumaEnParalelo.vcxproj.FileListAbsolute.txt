@@ -1,2 +1,0 @@
-C:\Users\52999\Documents\Dany\x64\Debug\SumaEnParalelo.exe.lastcodeanalysissucceeded
-C:\Users\52999\Documents\Dany\ProyectosOMP\SumaEnParalelo\SumaEnParalelo\x64\Debug\NativeCodeAnalysis.read.1.tlog
