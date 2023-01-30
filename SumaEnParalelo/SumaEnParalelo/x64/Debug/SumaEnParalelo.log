@@ -1,0 +1,4 @@
+﻿  SumaEnParalelo.cpp
+C:\Users\52999\Documents\Dany\ProyectosOMP\SumaEnParalelo\SumaEnParalelo\SumaEnParalelo.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\52999\Documents\Dany\ProyectosOMP\SumaEnParalelo\SumaEnParalelo\SumaEnParalelo.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SumaEnParalelo.vcxproj -> C:\Users\52999\Documents\Dany\x64\Debug\SumaEnParalelo.exe
